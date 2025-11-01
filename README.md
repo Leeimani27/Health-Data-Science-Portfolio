@@ -17,7 +17,7 @@ Welcome! This portolio showcases my projects in **health data science**, **publi
 - **Visualization:** Matplotlib
 - **Other:** Git, Jupyter Notebook, Terminal (Unix)
 
-- --
+---
 
 ### About This Portfolio 
 This repository represents the beginning of my journey as a graduate student at **George Washington University Milken Institute School of Public Health**, where I am pursuing my **M.S. in Health Data Science: Bioinformatics**.  
@@ -25,7 +25,7 @@ My work bridges public health and computational research, with growing interests
 Through this portfolio, I aim to build and share projects that demonstrate how data-driven methods can advance **biomedical discovery, public health analytics, and population-level research**.  
 More projects will be added over time as I continue expanding my technical and domain expertise across these fields.
 
---
+---
 
 ### 📲Connect With Me
 **Author:** Imani Lee
