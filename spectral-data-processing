@@ -1,0 +1,40 @@
+# Processing and Merging Spectral Data Files Using Python Scripts
+
+**Author:** Imani Lee  
+**Date:** November 1, 2025  
+
+---
+
+### Project Overview
+This project focused on developing and refining Python scripts to process and merge **spectral data from multiple LED measurements**. The goal was to combine wavelength and intensity data from four separate tab-delimited files (Blue, Green, Red, and Yellow LEDs) into a unified dataset where each row contained wavelength values followed by corresponding intensity values for all LEDs.  
+
+The project demonstrates key **applied scientific computing skills** relevant to **bioinformatics and health data science**, including file I/O, data merging, conditional filtering, command-line arguments, and optimization for memory efficiency.
+
+---
+
+### Methods and Workflow
+The project involved six progressive tasks:
+
+1. **Baseline File Merging** — Ran the original Python script (`filestoXYYY.py`) to understand its merging logic and output.  
+2. **Implementing `enumerate()`** — Replaced manual counters with Python’s built-in `enumerate()` for cleaner and safer loops.  
+3. **Adding Skip-Line Parameter** — Modified argument parsing to allow user-defined header lines to skip.  
+4. **Wavelength Filtering** — Introduced numerical filtering to include only wavelengths ≥ 400 nm.  
+5. **User-Defined Wavelength Range** — Expanded filtering functionality to accept user-specified min/max wavelength values.  
+6. **Memory-Efficient Implementation** — Restructured the processing loop to reduce memory use by streaming data line-by-line instead of storing it all in memory.  
+
+---
+
+### Key Learning Outcomes
+- Improved understanding of **Python scripting for scientific data**  
+- Practical experience with **data processing pipelines**  
+- Skills in **command-line argument handling**, **conditional filtering**, and **algorithmic optimization**  
+- Insights into how **bioinformatics-style data workflows** can be adapted for large-scale health or genomic datasets  
+
+---
+
+### Tools and Technologies
+- **Python 3**  
+- **Terminal (macOS)**  
+- **Libraries:** `sys`, `enumerate`, and file I/O operations  
+- **Data Format:** Tab-delimited text files containing wavelength and intensity measurements  
+
