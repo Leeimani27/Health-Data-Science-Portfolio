@@ -10,7 +10,7 @@ Welcome! This portolio showcases my projects in **health data science**, **publi
 
 ---
 
-###🧰 Skills & Tools 
+### Skills & Tools 
 - **Programming:** Python, R, SAS
 - **Data Science:** tidyverse
 - **Bioinformatics:** BioPython, data parsing for spectral/genomic analysis
@@ -27,7 +27,7 @@ More projects will be added over time as I continue expanding my technical and d
 
 ---
 
-### 📲Connect With Me
+### Connect With Me
 **Author:** Imani Lee
 📧imani.mlee03@gmail.com
 🔗 [LinkedIn] www.linkedin.com/in/imanimlee
