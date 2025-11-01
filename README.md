@@ -10,7 +10,7 @@ Welcome! This portolio showcases my projects in **health data science**, **publi
 
 ---
 
-### Skills & Tools 
+###🧰 Skills & Tools 
 - **Programming:** Python, R, SAS
 - **Data Science:** tidyverse
 - **Bioinformatics:** BioPython, data parsing for spectral/genomic analysis
