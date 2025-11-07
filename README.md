@@ -7,6 +7,8 @@ Welcome! This portolio showcases my projects in **health data science**, **publi
 | Project | Description | Tools |
 |----------|-------------|--------|
 |[Spectral Data Processing](./spectral-data-processing) | Developing Python Scripts to merge and filter spectral LED data, demonstrating file I/O, conditional filtering, and optimization for scientific workflows. | Python and RStudio |
+|[Decoding HIV](./decoding-hiv) | Conducting phylogenetic analysis of 133 HIV-1 envelope gene sequences to identify the best evolutionary model (GRT+G), using MEGA12 and Clustal Omega to explore viral diversity and evolutionary relationships. | MEGA12, Clustal Omega, Bioinformatics |
+
 
 ---
 
